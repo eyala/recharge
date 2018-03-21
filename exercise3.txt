@@ -1,0 +1,5 @@
+This is the first line of exercise 3.
+
+This line will be in conflicts.
+
+This is the last line.

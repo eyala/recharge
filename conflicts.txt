@@ -1,5 +1,5 @@
 This is the first line.
 
-This line will be in conflicts.
+Bob was here. This line will be in conflicts.
 
 This is the last line.
